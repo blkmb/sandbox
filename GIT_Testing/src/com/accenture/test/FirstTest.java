@@ -1,5 +1,5 @@
 package com.accenture.test;
 
-public class FirstTestClass {
+public class FirstTest {
 
 }
